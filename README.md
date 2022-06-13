@@ -5,7 +5,7 @@
 
 [Know more ...](https://elijahohiwerei.netlify.app)
 
-## I'm a Student, Developer and Engineer.
+## I'm a Developer and Engineer.
 
 - 🔭 I am open for any gigs any size of project💆
 - 🌱 I’m currently working various jobs🏌🏽
