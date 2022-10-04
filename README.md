@@ -43,12 +43,4 @@
 
 
 
-### 📓 Latest Blog posts
 
-[![Thenextgen1's github stats](https://github-readme-stats.vercel.app/api?username=Thenextgen1&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thenextgen1&hide=css,html&layout=compact&theme=nightowl)](https://github.com/Thenextgen1/github-readme-stats)
-
-[website]: https://elijahohiwerei.netlify.app
-[play]: https://thenextgen1.github.io/
-[linkedin]: https://www.linkedin.com/in/elijah-ohiwerei-b7425b1b4
