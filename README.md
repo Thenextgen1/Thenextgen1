@@ -13,12 +13,7 @@
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
 
-  <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Thenextgen1&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Thenextgen1&hide=css,java,html&theme=tokyonight">
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=Thenextgen1">
-</p>
-</p>
+
  
 <p align='center'>
 My skills and expertise lies in creating web and mobile applications on the react ecosystem using modern and best react practices. I am currently exploring the decentralized web as well.
